@@ -18,8 +18,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'loopbackio', // Usually your GitHub org/user name.
-  projectName: 'LoopBack blog', // Usually your repo name.
-  deploymentBranch: 'main',
+  projectName: 'loopback-blog', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   presets: [
