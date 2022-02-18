@@ -13,7 +13,7 @@ const config = {
   title: 'LoopBack',
   tagline: 'Dinosaurs are cool',
   url: 'https://loopbackio.github.io',
-  baseUrl: '/loopback-blog/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -29,6 +29,7 @@ const config = {
       ({
         docs: false,
         blog: {
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           routeBasePath: '/',
