@@ -2,7 +2,7 @@
 title: LoopBack - Taking Express to the Next Level
 date: 2020-05-27 
 authors: hacksparrow
-slug: /strongblog/express-to-loopback/
+slug: express-to-loopback
 tags: [Express, JavaScript]
 ---
 

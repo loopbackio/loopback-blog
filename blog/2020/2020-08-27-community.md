@@ -2,7 +2,7 @@
 title: Enriching LoopBack and its Community - You are Invited!
 date: 2020-08-27
 authors: [raymondfeng, bajtos, dhmlau]
-slug: /strongblog/2020-community-contribution/
+slug: 2020-community-contribution
 tags: [Community]
 ---
 _Originally published on [strongloop.com](https://strongloop.com)_
