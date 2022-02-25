@@ -2,7 +2,7 @@
 title: LoopBack 4 February 2020 Milestone Update
 date: 2020-03-05
 authors: jannyhou
-slug: /strongblog/february-2020-milestone/
+slug: february-2020-milestone
 tags: [Milestone update]
 ---
 

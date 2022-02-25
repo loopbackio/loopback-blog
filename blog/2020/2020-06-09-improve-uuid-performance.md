@@ -2,7 +2,7 @@
 title: How We Improved LoopBack REST Performance by 45%
 date: 2020-06-09
 authors: bajtos
-slug: /strongblog/2020-improve-looopback-performance-uuid/
+slug: 2020-improve-looopback-performance-uuid
 tags: [REST, Performance]
 ---
 

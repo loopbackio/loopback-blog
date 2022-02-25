@@ -2,7 +2,7 @@
 title: Community Q&A Monthly Digest - May 2020
 date: 2020-06-11
 authors: dhmlau
-slug: /strongblog/2020-may-slack-qa/
+slug: 2020-may-slack-qa
 tags: [Community, Slack, Q&A]
 ---
 
