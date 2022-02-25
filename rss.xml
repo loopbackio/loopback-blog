@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>LoopBack Blog</title>
-        <link>https://loopbackio.github.io/</link>
+        <link>https://blog.loopback.io/</link>
         <description>LoopBack Blog</description>
         <lastBuildDate>Tue, 08 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[LoopBack 4 November 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/november-2020-milestone</link>
+            <link>https://blog.loopback.io/november-2020-milestone</link>
             <guid>november-2020-milestone</guid>
             <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[LoopBack 4 October 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/october-2020-milestone</link>
+            <link>https://blog.loopback.io/october-2020-milestone</link>
             <guid>october-2020-milestone</guid>
             <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -28,7 +28,7 @@ scoping of binding resolutions. The limitation of the previous scopes is explain
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - Oct 2020]]></title>
-            <link>https://loopbackio.github.io/2020-oct-slack-qa</link>
+            <link>https://blog.loopback.io/2020-oct-slack-qa</link>
             <guid>2020-oct-slack-qa</guid>
             <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -51,7 +51,7 @@ In your login component you could do something like:</p><div class="codeBlockCon
         </item>
         <item>
             <title><![CDATA[LoopBack 4 2020 Q3 Overview]]></title>
-            <link>https://loopbackio.github.io/loopback-4-2020-q3-overview</link>
+            <link>https://blog.loopback.io/loopback-4-2020-q3-overview</link>
             <guid>loopback-4-2020-q3-overview</guid>
             <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -60,7 +60,7 @@ In your login component you could do something like:</p><div class="codeBlockCon
         </item>
         <item>
             <title><![CDATA[LoopBack 3 End-of-Life]]></title>
-            <link>https://loopbackio.github.io/2020-lb3-eol</link>
+            <link>https://blog.loopback.io/2020-lb3-eol</link>
             <guid>2020-lb3-eol</guid>
             <pubDate>Wed, 14 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -69,7 +69,7 @@ In your login component you could do something like:</p><div class="codeBlockCon
         </item>
         <item>
             <title><![CDATA[LoopBack 4 September 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/september-2020-milestone</link>
+            <link>https://blog.loopback.io/september-2020-milestone</link>
             <guid>september-2020-milestone</guid>
             <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -78,7 +78,7 @@ In your login component you could do something like:</p><div class="codeBlockCon
         </item>
         <item>
             <title><![CDATA[LoopBack is participating in Hacktoberfest 2020]]></title>
-            <link>https://loopbackio.github.io/2020-hacktoberfest</link>
+            <link>https://blog.loopback.io/2020-hacktoberfest</link>
             <guid>2020-hacktoberfest</guid>
             <pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -90,7 +90,7 @@ LoopBack is going to participate in this year's
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - Sept 2020]]></title>
-            <link>https://loopbackio.github.io/2020-sept-slack-qa</link>
+            <link>https://blog.loopback.io/2020-sept-slack-qa</link>
             <guid>2020-sept-slack-qa</guid>
             <pubDate>Wed, 16 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -103,7 +103,7 @@ You can try to <code>require('@loopback/cli/lib/cli')</code>. See <a href="https
         </item>
         <item>
             <title><![CDATA[LoopBack 4 August 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/august-2020-milestone</link>
+            <link>https://blog.loopback.io/august-2020-milestone</link>
             <guid>august-2020-milestone</guid>
             <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -112,7 +112,7 @@ You can try to <code>require('@loopback/cli/lib/cli')</code>. See <a href="https
         </item>
         <item>
             <title><![CDATA[Enriching LoopBack and its Community - You are Invited!]]></title>
-            <link>https://loopbackio.github.io/2020-community-contribution</link>
+            <link>https://blog.loopback.io/2020-community-contribution</link>
             <guid>2020-community-contribution</guid>
             <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -121,7 +121,7 @@ You can try to <code>require('@loopback/cli/lib/cli')</code>. See <a href="https
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - July 2020]]></title>
-            <link>https://loopbackio.github.io/2020-jul-slack-qa</link>
+            <link>https://blog.loopback.io/2020-jul-slack-qa</link>
             <guid>2020-jul-slack-qa</guid>
             <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -135,7 +135,7 @@ Then your repositories extend the custom one. Similar to&nbsp;how <code>AccountR
         </item>
         <item>
             <title><![CDATA[LoopBack 4 July 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/july-2020-milestone</link>
+            <link>https://blog.loopback.io/july-2020-milestone</link>
             <guid>july-2020-milestone</guid>
             <pubDate>Wed, 05 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -145,7 +145,7 @@ unit of work. LoopBack 4 has many relational database connectors support such lo
         </item>
         <item>
             <title><![CDATA[Making Your Contribution Process Simpler - Switching from CLA to DCO]]></title>
-            <link>https://loopbackio.github.io/switching-to-dco</link>
+            <link>https://blog.loopback.io/switching-to-dco</link>
             <guid>switching-to-dco</guid>
             <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -155,7 +155,7 @@ unit of work. LoopBack 4 has many relational database connectors support such lo
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - Jun 2020]]></title>
-            <link>https://loopbackio.github.io/2020-Jun-slack-qa</link>
+            <link>https://blog.loopback.io/2020-Jun-slack-qa</link>
             <guid>2020-Jun-slack-qa</guid>
             <pubDate>Thu, 16 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -166,7 +166,7 @@ unit of work. LoopBack 4 has many relational database connectors support such lo
         </item>
         <item>
             <title><![CDATA[LoopBack 4 2020 Q2 Overview]]></title>
-            <link>https://loopbackio.github.io/loopback-4-2020-q2-overview</link>
+            <link>https://blog.loopback.io/loopback-4-2020-q2-overview</link>
             <guid>loopback-4-2020-q2-overview</guid>
             <pubDate>Tue, 14 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -175,7 +175,7 @@ unit of work. LoopBack 4 has many relational database connectors support such lo
         </item>
         <item>
             <title><![CDATA[LoopBack 4 June 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/june-2020-milestone</link>
+            <link>https://blog.loopback.io/june-2020-milestone</link>
             <guid>june-2020-milestone</guid>
             <pubDate>Wed, 08 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -186,7 +186,7 @@ with/without relations, partial, etc.</li><li>Json/OpenAPI schema to describe th
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - May 2020]]></title>
-            <link>https://loopbackio.github.io/2020-may-slack-qa</link>
+            <link>https://blog.loopback.io/2020-may-slack-qa</link>
             <guid>2020-may-slack-qa</guid>
             <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -197,7 +197,7 @@ with/without relations, partial, etc.</li><li>Json/OpenAPI schema to describe th
         </item>
         <item>
             <title><![CDATA[How We Improved LoopBack REST Performance by 45%]]></title>
-            <link>https://loopbackio.github.io/2020-improve-looopback-performance-uuid</link>
+            <link>https://blog.loopback.io/2020-improve-looopback-performance-uuid</link>
             <guid>2020-improve-looopback-performance-uuid</guid>
             <pubDate>Tue, 09 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -208,7 +208,7 @@ with/without relations, partial, etc.</li><li>Json/OpenAPI schema to describe th
         </item>
         <item>
             <title><![CDATA[LoopBack 4 May 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/may-2020-milestone</link>
+            <link>https://blog.loopback.io/may-2020-milestone</link>
             <guid>may-2020-milestone</guid>
             <pubDate>Thu, 04 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -221,7 +221,7 @@ change those comments to disable <code>@typescript-eslint/no-invalid-this</code>
         </item>
         <item>
             <title><![CDATA[How to reuse custom LoopBack Repository code]]></title>
-            <link>https://loopbackio.github.io/2020-share-repository-code</link>
+            <link>https://blog.loopback.io/2020-share-repository-code</link>
             <guid>2020-share-repository-code</guid>
             <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -231,7 +231,7 @@ change those comments to disable <code>@typescript-eslint/no-invalid-this</code>
         </item>
         <item>
             <title><![CDATA[LoopBack - Taking Express to the Next Level]]></title>
-            <link>https://loopbackio.github.io/express-to-loopback</link>
+            <link>https://blog.loopback.io/express-to-loopback</link>
             <guid>express-to-loopback</guid>
             <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -245,7 +245,7 @@ e. Override the method invocation, for example, return from cache</p><p>For more
         </item>
         <item>
             <title><![CDATA[LoopBack 4 April 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/april-2020-milestone</link>
+            <link>https://blog.loopback.io/april-2020-milestone</link>
             <guid>april-2020-milestone</guid>
             <pubDate>Wed, 06 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -256,7 +256,7 @@ tasks like running existing tests in a LoopBack 3 application after composing it
         </item>
         <item>
             <title><![CDATA[Community Q&A Monthly Digest - April 2020]]></title>
-            <link>https://loopbackio.github.io/2020-april-slack-qa</link>
+            <link>https://blog.loopback.io/2020-april-slack-qa</link>
             <guid>2020-april-slack-qa</guid>
             <pubDate>Wed, 29 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -288,7 +288,7 @@ I’ve tried that for postgresql using <a href="https://github.com/dhmlau/loopba
         </item>
         <item>
             <title><![CDATA[Build REST APIs for CRUD operations from a model without coding]]></title>
-            <link>https://loopbackio.github.io/model-to-rest-api-feature</link>
+            <link>https://blog.loopback.io/model-to-rest-api-feature</link>
             <guid>model-to-rest-api-feature</guid>
             <pubDate>Wed, 22 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -298,7 +298,7 @@ I’ve tried that for postgresql using <a href="https://github.com/dhmlau/loopba
         </item>
         <item>
             <title><![CDATA[LoopBack 4 2020 Q1 Overview]]></title>
-            <link>https://loopbackio.github.io/loopback-4-2020-q1-overview</link>
+            <link>https://blog.loopback.io/loopback-4-2020-q1-overview</link>
             <guid>loopback-4-2020-q1-overview</guid>
             <pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -308,7 +308,7 @@ We added a <a href="https://loopback.io/doc/en/lb4/migration-models-mixins.html"
         </item>
         <item>
             <title><![CDATA[LoopBack 4 March 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/march-2020-milestone</link>
+            <link>https://blog.loopback.io/march-2020-milestone</link>
             <guid>march-2020-milestone</guid>
             <pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -317,7 +317,7 @@ We added a <a href="https://loopback.io/doc/en/lb4/migration-models-mixins.html"
         </item>
         <item>
             <title><![CDATA[LoopBack 4 February 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/february-2020-milestone</link>
+            <link>https://blog.loopback.io/february-2020-milestone</link>
             <guid>february-2020-milestone</guid>
             <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -331,7 +331,7 @@ method overloads with <code>@oas.deprecated(false)</code>. You can check out <a 
         </item>
         <item>
             <title><![CDATA[LoopBack - 2020 Goals and Focus]]></title>
-            <link>https://loopbackio.github.io/2020-goals</link>
+            <link>https://blog.loopback.io/2020-goals</link>
             <guid>2020-goals</guid>
             <pubDate>Wed, 26 Feb 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -340,7 +340,7 @@ method overloads with <code>@oas.deprecated(false)</code>. You can check out <a 
         </item>
         <item>
             <title><![CDATA[LoopBack 3 has entered Maintenance LTS]]></title>
-            <link>https://loopbackio.github.io/lb3-entered-maintenance-mode</link>
+            <link>https://blog.loopback.io/lb3-entered-maintenance-mode</link>
             <guid>lb3-entered-maintenance-mode</guid>
             <pubDate>Wed, 19 Feb 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -350,7 +350,7 @@ Maintenance LTS:</p><ul><li><a href="https://www.npmjs.com/package/generator-loo
         </item>
         <item>
             <title><![CDATA[LoopBack 4 January 2020 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/january-2020-milestone</link>
+            <link>https://blog.loopback.io/january-2020-milestone</link>
             <guid>january-2020-milestone</guid>
             <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -363,7 +363,7 @@ Please see <a href="https://github.com/strongloop/loopback-next/pull/4440" targe
         </item>
         <item>
             <title><![CDATA[LoopBack 4 2019 Q4 Overview]]></title>
-            <link>https://loopbackio.github.io/loopback4-2019-q4-overview</link>
+            <link>https://blog.loopback.io/loopback4-2019-q4-overview</link>
             <guid>loopback4-2019-q4-overview</guid>
             <pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
@@ -373,7 +373,7 @@ code and documentation.</li><li><a href="https://github.com/strongloop/loopback-
         </item>
         <item>
             <title><![CDATA[LoopBack 4 December 2019 Milestone Update]]></title>
-            <link>https://loopbackio.github.io/december-2019-milestone</link>
+            <link>https://blog.loopback.io/december-2019-milestone</link>
             <guid>december-2019-milestone</guid>
             <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Originally published on strongloop.com]]></description>
