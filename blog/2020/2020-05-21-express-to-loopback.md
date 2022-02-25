@@ -21,7 +21,7 @@ In this post we will explore the points that make LoopBack a compelling choice f
 
 First off, let's make it clear that Express and LoopBack are not mutually exclusive. You can very well use an existing Express app or middleware with LoopBack. This capability enables gradual migration from Express to LoopBack, that way you don't have to throw away your existing code and re-write everything from scratch. 
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/05/express-loopback.png"/>
+![](./images/express-loopback.png)
 
 ### Extending an Existing Express Application With LoopBack
 
@@ -113,7 +113,8 @@ Apart from using the non-database datasources provided by LoopBack, you can crea
 
 These services can then be used in the controllers, effectively creating an OpenAPI-compliant proxy to those remote services. This usage scenario is perfect for proving a custom interface to an existing (legacy) API.
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/05/req-res-high-level.png"/>
+
+![](./images/req-res-high-level.png)
 
 ### 2. Dependency Injection
 

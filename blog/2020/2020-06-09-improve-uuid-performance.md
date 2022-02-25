@@ -54,7 +54,7 @@ clinic upload .clinic/41598.clinic-doctor
 
 The report says there were no issue detected, hooray!
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/06/uuid-clinic-doctor.png"/>
+<img class="aligncenter size-full" src="./images/uuid-clinic-doctor.png"/>
 
 A closer inspection shows that our process is consuming quite a lot of memory.  We don't have any memory leaks, which is most important. However, excessive allocations put more pressure on garbage collector which does impact application's performance. Let's set the memory usage aside for now and check how much time is the application spending on waiting for asynchronous operations.
 
@@ -82,7 +82,7 @@ clinic upload .clinic/42229.clinic-bubbleprof
 
 There isn't much to see in the report, the application spent less than 20ms waiting for async operations. I guess that was kind of expected considering that our example application is using in-memory storage and not communicating with any external service.
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/06/uuid-clinic-bubbleprof.png"/>
+<img class="aligncenter size-full" src="./images/uuid-clinic-bubbleprof.png"/>
 
 
 ## Clinic.js Flame
@@ -107,11 +107,13 @@ clinic upload .clinic/42454.clinic-flame
 
 There is a lot of information packaged into a flame graph. Initially, Clinic.js is selecting the hottest frame - the stack that was observed most often while running the application. In our case, the hottest frame is pointing to Node.js internals dealing with writing data to streams.
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/06/uuid-clinic-flame-1.png"/>
+<img class="aligncenter size-full" src="./images/uuid-clinic-flame-1.png"/>
+
+![](./images/uuid-clinic-flame-1.png)
 
 There isn't much we can do about Node.js streams. Our application is writing HTTP responses so it has to spend some time writing the data. The third hottest frame is `parseQueryStringValues` from the module `qs`, this is again not something we can easily improve. Let's remove all components except `dist` in the check-box list at the bottom of the screen to focus on LoopBack code only.
 
-<img class="aligncenter size-full" src="{{site.url}}/blog-assets/2020/06/uuid-clinic-flame-2.png"/>
+![](./images/uuid-clinic-flame-2.png)
 
 Now the list of hot frames looks much more actionable! Here are the top entries:
 
