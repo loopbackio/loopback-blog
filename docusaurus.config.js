@@ -12,8 +12,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'LoopBack',
   tagline: 'Dinosaurs are cool',
-  url: 'https://loopbackio.github.io',
-  baseUrl: '/',
+  url: 'https://loopback.io',
+  baseUrl: '/blog',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
