@@ -2,7 +2,7 @@
 title: LoopBack 4 April 2019 Milestone Update
 date: 2019-05-03
 authors: emonddr
-slug: /strongblog/april-2019-milestone/
+slug: april-2019-milestone
 tags: [Milestone update]
 ---
 
