@@ -2,7 +2,7 @@
 title: LoopBack 2019 Year in Review
 date: 2019-12-18
 authors: dwhiteley
-slug: /strongblog/loopback-2019-review/
+slug: loopback-2019-review
 tags: [community, news]
 ---
 

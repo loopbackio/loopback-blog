@@ -2,7 +2,7 @@
 title: Building an Online Game With LoopBack 4 - Deploying our Application to Kubernetes on IBM Cloud (Part 5)
 date: 2019-07-24
 authors: wenbo
-slug: /strongblog/building-an-online-game-with-loopback-4-pt5/
+slug: building-an-online-game-with-loopback-4-pt5
 tags: [how-to]
 ---
 
