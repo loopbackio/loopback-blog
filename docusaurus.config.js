@@ -51,6 +51,7 @@ const config = {
         logo: {
           alt: 'LoopBack Logo',
           src: 'img/logo.svg',
+          href: 'https://loopback.io'
         },
         items: [
           // {
@@ -59,7 +60,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/loopbackio/loopback-next',
             label: 'GitHub',
