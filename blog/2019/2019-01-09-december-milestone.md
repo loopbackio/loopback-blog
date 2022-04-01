@@ -6,6 +6,8 @@ slug: december-2018-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 Happy New Year! We hope everyone had a wonderful holiday and warmly welcomed 2019. This past December was a short month due to the vacation days, but we were still able to complete several fixes and take off in our next focused epics like authentication and building a JavaScript LoopBack 4 application. You can read more about our progress below.
 
 <!--truncate-->

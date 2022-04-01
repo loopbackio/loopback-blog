@@ -6,6 +6,8 @@ slug: january-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 We're one month into the new year! While the team had some time off extending into January, we still managed to work and spike on authentication, migration from LB3, user adoption, extensibility, and documentation. Read more to find out how it all unfolded.
 
 <!--truncate-->

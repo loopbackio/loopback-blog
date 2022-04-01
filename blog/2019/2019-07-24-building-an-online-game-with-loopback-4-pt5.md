@@ -6,6 +6,8 @@ slug: building-an-online-game-with-loopback-4-pt5
 tags: [how-to]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 5: Deploying our Application to Kubernetes on IBM Cloud
 
 ### In This Episode

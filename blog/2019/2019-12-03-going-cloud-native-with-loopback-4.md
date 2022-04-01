@@ -6,6 +6,8 @@ slug: going-cloud-native-with-loopback-4
 tags: [cloud native]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 When we build APIs and microservices nowadays, we choose a cloud as the target for deployment. Cloud has long gone beyond being just hosting providers. Infrastructures such as Docker and Kubernetes have completely changed the paradigm of how applications work and operate. To unleash the full power of cloud, there are a few important perspectives that require efforts to make your application cloud native. At LoopBack, we kicked off the journey to provide integration and guidance aligned with [CNCF](https://www.cncf.io/) to make your API and microservice applications cloud native throughout the life cycle. This blog summarizes what we have explored and achieved so far to illustrate how you can go cloud native with LoopBack 4.
 
 <!--truncate-->

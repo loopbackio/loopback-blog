@@ -6,6 +6,8 @@ slug: august-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 The last month of summer started with exiting news that [LoopBack won the "Best in API Middleware award"](https://strongloop.com/strongblog/loopback-2019-api-award-api-middleware/)🎉, which is a great recognition of our team's achievement and effort. With those efforts in mind, here's the highlights of what we worked on in August: 
 
 - The implementation of InclusionResolver has made significant progress in the Inclusion epic.

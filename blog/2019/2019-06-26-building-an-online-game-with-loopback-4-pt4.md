@@ -6,6 +6,8 @@ slug: building-an-online-game-with-loopback-4-pt4
 tags: [how-to]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 4: User Authentication and Role-Based Access Control
 
 ### In This Episode

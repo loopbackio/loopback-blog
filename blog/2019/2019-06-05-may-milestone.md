@@ -6,6 +6,8 @@ slug: may-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 As the weather starts to warm up for summer, the LoopBack team has turned up the heat on the milestone tasks we planned for the month of May and beyond. We worked on areas such as:
 
 * Improving our documentation pages and API documentation.

@@ -6,6 +6,8 @@ slug: building-online-game-with-loopback-4-pt1
 tags: [how-to]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 1: Building a Simple LoopBack Project With MongoDB  
 
 ### Introduction

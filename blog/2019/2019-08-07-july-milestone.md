@@ -6,6 +6,8 @@ slug: july-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 This July 20th was the 50th anniversary of The Moon Landing and the famous quote, "That's one small step for man, one giant leap for mankind." This great, memorable event reminds me that every task the LoopBack team finishes will end up enhancing our project. From starting to build new features such as `inclusion`, to enriching the documentation, we believe that we are making LoopBack better by taking all these small steps!
 
 We finished up 85 story points this month. See the [July milestone](https://github.com/strongloop/loopback-next/issues/3241) for an overview of what we have worked on, and read on for more details.

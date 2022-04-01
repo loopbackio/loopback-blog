@@ -6,6 +6,8 @@ slug: loopback4-interceptors-part1
 tags: [learning, interceptor]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 Wondering what an interceptor is in LoopBack 4? 
 
 > Interceptors are reusable functions to provide aspect-oriented logic around method invocations. 

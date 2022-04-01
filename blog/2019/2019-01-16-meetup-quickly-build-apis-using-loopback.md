@@ -6,6 +6,8 @@ slug: meetup-quickly-build-apis-using-loopback
 tags: [community, event]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 The Toronto Cloud Integration Meetup is hosting an event on Tuesday, February 5, 2019. The subject is near and dear to our hearts: "Quickly Build APIs with Existing Services and Data Using LoopBack!" If you are in town, we'd love to meet you as we cover this topic.
 
 <!--truncate-->

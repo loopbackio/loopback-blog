@@ -6,6 +6,8 @@ slug: building-an-online-game-with-loopback-4-pt3
 tags: [how-to] 
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 3: Customizing APIs in Controller
 
 ### Introduction

@@ -6,6 +6,8 @@ slug: import-loopback-3-models-to-loopback-4
 tags: [LoopBack 3, migration]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 It has been almost a year since [LoopBack 4.0 GA was announced](https://strongloop.com/strongblog/loopback-4-ga). Since then, we have been working hard on closing the feature gap between the new and the old versions and looking for ways to simplify migration of projects built on LoopBack 3.
 
 In June, we announced a new feature that allows LoopBack 3 applications to be mounted in LoopBack 4 projects, allowing developers to start writing new features using LoopBack 4 while keeping existing APIs powered by LoopBack 3 (Read more about it in this [blog post](https://strongloop.com/strongblog/migrate-from-loopback-3-to-loopback-4/)).

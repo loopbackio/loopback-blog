@@ -6,6 +6,8 @@ slug: march-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 We landed an outstanding number of code contributions in March, making for a very productive month! We merged 63 PRs in total, and 10 out of them are from the community. Cheers!
 
 The team was able to make good progress of the epics we are focusing on, like LB3 to LB4 migration, adding `@loopback/context` features, JavaScript experience, the authentication system, and describing model properties to be more flexible. Read more to see the details of our achievements in March.

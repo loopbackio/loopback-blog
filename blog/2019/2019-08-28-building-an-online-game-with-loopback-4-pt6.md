@@ -6,6 +6,8 @@ slug: building-an-online-game-with-loopback-4-pt6
 tags: [learning, how-to]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 6: Front-end with React
 
 ### In This Episode

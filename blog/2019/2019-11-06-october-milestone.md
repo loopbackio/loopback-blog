@@ -6,6 +6,8 @@ slug: october-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 As the cold autumn winds and frost nipped at our heels, the LoopBack team kept warm with generous portions of hot tea and coffee and accomplished their planned October milestone goals.
 
 We focused on the following areas:

@@ -6,6 +6,8 @@ slug: loopback-4-authentication-updates
 tags: [feature, authentication]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 We've refactored the authentication component to be more extensible and easier to use.
 
 Now you can secure your endpoints with both [passport-based](http://www.passportjs.org/)  and `LoopBack native` authentication strategies that implement the interface [AuthenticationStrategy](https://loopback.io/doc/en/lb4/apidocs.authentication.authenticationstrategy.html).

@@ -6,6 +6,8 @@ slug: loopback4-interceptors-part2
 tags: [learning, interceptor]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 [Previously](https://strongloop.com/strongblog/loopback4-interceptors-part1/), we looked at how to add a global interceptor. In this article, we are going to build an application that validates the incoming request using class level and method level interceptors 
 
 For the complete application, you can go to this repo: https://github.com/dhmlau/loopback4-interceptors
