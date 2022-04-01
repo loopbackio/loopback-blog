@@ -6,6 +6,8 @@ slug: september-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 All the leaves are red and the flowers are fading away. In this season of fruitfulness, the LoopBack team accomplished their planned September milestone goals. Besides delivering code-related contributions, we also addressed the growing number of reported issues from the growing number of users from the GitHub community. I believe that with the effort from our team and the contribution from the community, we are crafting LoopBack to a better framework.
 
 Here are our main focuses from September:

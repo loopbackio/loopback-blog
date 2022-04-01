@@ -6,6 +6,8 @@ slug: migrate-from-loopback-3-to-loopback-4
 tags: [migration, LoopBack 3]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 Following the announcement of LoopBack 4 GA in October, LoopBack 3 entered Active Long Term Support (LTS). In March, we  announced that [LoopBack 3 will receive extended LTS](https://strongloop.com/strongblog/lb3-extended-lts/) until December 2019. We made this choice to provide LoopBack 3 users more time to move to LoopBack 4 and for us to improve the migration experience. In order to incrementally migrate from LoopBack 3 to LoopBack 4, we have since introduced a way to mount your LoopBack 3 applications in a LoopBack 4 project.
 
 <!--truncate-->

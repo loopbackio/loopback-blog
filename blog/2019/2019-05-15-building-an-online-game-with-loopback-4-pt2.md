@@ -5,6 +5,9 @@ authors: wenbo
 slug: building-an-online-game-with-loopback-4-pt2
 tags: [how-to]
 ---
+
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 ## Part 2: Generating Universally Unique ID and Managing Models Relationships  
 
 ### Introduction

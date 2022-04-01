@@ -6,6 +6,8 @@ slug: april-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 April was a very productive month for the LoopBack team! We focused on the following areas:
 
 * Strong referential integrity for relations

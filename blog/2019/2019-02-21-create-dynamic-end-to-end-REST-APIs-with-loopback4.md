@@ -6,6 +6,8 @@ slug: create-dynamic-end-to-end-REST-APIs-with-loopback4
 tags: [community, news]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 We've provided news, tutorials, and updates on LoopBack for almost as long as the StrongLoop site existed, and continued to do so after IBM acquired StrongLoop in 2015. Recently, IBM created another resource for LoopBack! In addition to accessing news of the open-source Node.js API Framework on this site, you can now also find news, code and more on the official [IBM Developer LoopBack page](https://developer.ibm.com/open/projects/loopback/). 
 <!--truncate-->
 

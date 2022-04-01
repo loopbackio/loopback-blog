@@ -6,6 +6,8 @@ slug: november-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 The LoopBack team greeted November with the CASCONxEVOKE conference in Toronto. CASCONxEVOKE is one of Canada's largest combined academic, research and developer conferences. As its speakers and attendees, we had a booth with posters to advocate LoopBack, and also delivered a workshop about developing extensible LoopBack applications. You can check this [blog](https://strongloop.com/strongblog/cascon-evoke-2019/) for more details. 
 
 For Q4 achievements, we finished 3 epics this month: [Inclusion of related models](https://github.com/strongloop/loopback-next/issues/1352), [Deployment guide in a cloud native environment](https://github.com/strongloop/loopback-next/issues/1054) and [Support partitioned database in Cloudant connector](https://github.com/strongloop/loopback-connector-cloudant/issues/219), and significantly progressed in the Migration, Authentication & Authorization epics.

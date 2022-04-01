@@ -6,6 +6,8 @@ slug: february-2019-milestone
 tags: [Milestone update]
 ---
 
+_Originally published on [strongloop.com](https://strongloop.com)_
+
 It feels like 2019 just started, but we are somehow already in March. February flew by, but while the month was short, the list of things the LoopBack team accomplished in the month was the opposite. In February, we tackled authentication and authorization, spikes on migration from LoopBack 3 to LoopBack 4, preparation for events, and others. You can see the [February milestone](https://github.com/strongloop/loopback-next/issues/2313) and see the [March milestone](https://github.com/strongloop/loopback-next/issues/2516) to see what we are working on next. Read more to see the details of our progress in February.
 
 <!--truncate-->
